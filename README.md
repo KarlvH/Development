@@ -1,3 +1,3 @@
 # Development
 Repository for Software
-This is for updates to the Main
+This update is for the Main; commit right away!
